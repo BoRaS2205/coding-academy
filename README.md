@@ -1,2 +1,3 @@
 # coding-academy
-Repo na potrzeby Coding Academy
+
+2022/06/13 Paweł Borek
